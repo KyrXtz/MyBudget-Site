@@ -1,5 +1,7 @@
 # myBudget - Expense widget website , made with VueJs
 
+<img align="center" src="src\assets\Screenshot.png" alt="portfolio-vuejs preview"></img>
+
 ## Build Setup
 
 ``` bash
