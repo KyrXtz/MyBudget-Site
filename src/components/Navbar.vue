@@ -35,7 +35,7 @@
             <li class="nav-item mx-2">
               <a
                 class="nav-link"
-                href="#"
+                href="#privacy-policy"
                 @click.prevent="() => showModalFn(privacyPolicy)"
                 :class="{ 'text-light': nightMode }"
                 >Privacy Policy</a>
